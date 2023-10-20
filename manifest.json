@@ -1,0 +1,11 @@
+{
+	"name": "Monday Support Panel",
+	"version": "1.0.0",
+	"description": "A link tree featuring the most popular Monday.com support options for customer care agents",
+	"manifest_version": 3,
+	"author": "Benjamin Sams",
+	"action":{
+			"default_popup": "public/index.html",
+			"default_title": "Monday Support Panel"
+	}
+}
