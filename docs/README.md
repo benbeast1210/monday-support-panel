@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this Chrome Extension is to put the most popular Monday.com ticket links at the fingertips of employed users. Enabling this extension will allow you to quickly click the preferred ticket option, and navigate to the new tab your ticket has appeared in, to finish filling it in. Follow the instructions below to install this extension for yourself. Being slightly faster may not have an immediate impact, though mom always says that many small changes over time can sometimes make the biggest difference.
+The purpose of this Chrome Extension is to put the most popular AYPO links at the fingertips of employed users. Enabling this extension will allow you to quickly click the preferred option, and navigate to the new tab your ticket has appeared in, to finish filling it in. Follow the instructions below to install this extension for yourself.
 
 ## Installation
 
